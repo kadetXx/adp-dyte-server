@@ -14,9 +14,7 @@ Run the command `yarn` to install depenedencies.
 
 ### `yarn dev`
 
-This will open the application in development mode on port 4000.\
-Open [http://localhost:4000/](http://localhost:4000/) to view it in the browser.
-
+This will start the server in development mode on on port 4000.\
 The server will reload if you make edits.
 
 ### `yarn build`
